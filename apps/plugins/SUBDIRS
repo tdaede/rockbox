@@ -2,6 +2,8 @@
 shortcuts
 text_viewer
 
+bitcoin
+
 /* For various targets... */
 
 #if CONFIG_RTC
